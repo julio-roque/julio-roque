@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi! 👋 I'm Julio C. Roque, nice to meet you 😁
 
-<!--
-**julio-roque/julio-roque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Developers.Net
+- 👯 I’m looking to collaborate on Java, Spring Boot, C#, ASP.NET, Angular, React, Docker, AWS.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, C#, JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** Spring Boot, Asp.Net, Angular, React
+- **Tools:** Git, Docker, Kubernete, VS Code, JetBrain
+- **Databases:** PostgreSQL, MSSQL, MySql, MongoDB
+- **OS:** Linux, Windows, MacOS
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jroque-nordel)
+[![nordel.roque@gmail.com](https://custom-icon-badges.demolab.com/badge/-nordel.roque@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nordel.roque@gmail.com)
