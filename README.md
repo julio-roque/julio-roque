@@ -7,7 +7,7 @@
 
 - **Languages:** Java, C#, JavaScript, TypeScript, HTML, CSS
 - **Frameworks:** Spring Boot, Asp.Net, Angular, React
-- **Tools:** Git, Docker, Kubernete, VS Code, JetBrain
+- **Tools:** Git, Docker, Kubernete, VS Code, JetBrain, Atlassian's suite
 - **Databases:** PostgreSQL, MSSQL, MySql, MongoDB
 - **AWS:** Lambda, SQS, S3, EventBridge, AppSync
 - **OS:** Linux, Windows, MacOS
